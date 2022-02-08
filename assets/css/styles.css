@@ -660,8 +660,8 @@ footer .social-copyright img{
                 flex-direction: column;
     }
     .our-story-section img{
-        max-width: 90%;
-        margin-bottom: 30px;;
+        max-width: 450px;
+        margin-bottom: 30px;
     }
     .quote-section .start-quote{
         left: -10px;
@@ -700,6 +700,11 @@ footer .social-copyright img{
     }
     .testimonials-slider .slide-img{
         margin: 0 6px;
+    }
+}
+@media  screen and (max-width: 600px) {
+    .our-story-section img{
+        max-width: 300px;
     }
 }
 /* Global */
