@@ -118,7 +118,7 @@ font-size: 10px;
     position: relative;
 }
 .main-container .hero-section{
-    background-image: url('/images/hero-lg.png');
+    background-image: url('../../images/hero-lg.png');
     background-repeat: no-repeat;
     background-position: right top;
     background-position-x: right;
@@ -512,7 +512,7 @@ footer .social-copyright img{
     }
 @media screen and (max-width: 1240px) {
     .main-container .hero-section{
-        background-image: url('/images/hero.png');
+        background-image: url('../../images/hero.png');
     }
     .testimonials-section .testimonials-slider{
         width: 90%;
