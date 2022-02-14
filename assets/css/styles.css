@@ -510,10 +510,12 @@ footer .social-copyright img{
             max-width: calc(100% - 390px);
         }
     }
-@media screen and (max-width: 1240px) {
+@media screen and (max-width: 1280px){
     .main-container .hero-section{
         background-image: url('../../images/hero.png');
     }
+}
+@media screen and (max-width: 1240px) {
     .testimonials-section .testimonials-slider{
         width: 90%;
     }
