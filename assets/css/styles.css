@@ -717,6 +717,9 @@ footer .social-copyright img{
     .our-story-section img{
         max-width: 300px;
     }
+    .bottom-line{
+     font-size: 50px !important;
+    }
 }
 /* Global */
 a.btn,
@@ -748,7 +751,7 @@ input[type="submit"]:hover{
 }
 .top-line{
     font-weight: 600;
-    font-size: 18px;
+    font-size: 24px;
     color: #fdb827;
 }
 .bottom-line{
